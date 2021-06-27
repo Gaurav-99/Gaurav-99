@@ -21,7 +21,7 @@ I'm Gaurav Joshi a Software Developer and Competetive programmer. I Spend most o
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://gaurav-99.github.io/Resume/Gaurav Joshi.pdf)
+- :paperclip: [My Resume/CV](https://gaurav-99.github.io/Resume/GauravJoshi.pdf)
 - :email: gj0189634@gmail.com
 
 
