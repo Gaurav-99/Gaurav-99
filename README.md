@@ -39,12 +39,9 @@ I'm Gaurav Joshi a Software Developer and Competetive programmer. I Spend most o
 
 #### Coding Stats
 
-```
-<!--END_SECTION:waka-->
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=Gaurav-99&count_private=true&theme=tokyonight&hide=contribs,prs)
 
- 
 </details>
