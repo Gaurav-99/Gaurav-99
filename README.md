@@ -36,9 +36,9 @@ I'm Gaurav Joshi a Software Developer and Competetive programmer. I Spend most o
 
 <br >
 
-
 #### Coding Stats
 
+ ###
 
 #### Github Stats
 
