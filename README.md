@@ -20,11 +20,6 @@ I'm Gaurav Joshi a Software Developer and Competetive programmer. I Spend most o
 <!-- TODO: Make technologies links takes you to repositories -->
 
 
-#### Bizness
-- :paperclip: [My Resume/CV](https://gaurav-99.github.io/Resume/GauravJoshi.pdf)
-- :email: gj0189634@gmail.com
-
-
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Gaurav-99.Gaurav-99)
