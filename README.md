@@ -8,7 +8,7 @@ I'm Gaurav Joshi a Software Developer and Competetive programmer. I Spend most o
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently Studing at School Of Engineering & Technology Srinagar, HNB Garhwal University
+- 🔭 I’m currently Studing at School Of Engineering & Technology Srinagar, HNB Garhwal University(2022 batch).
 
 - 🤔 I’m looking for good intership opportunities.
 - 📫 How to reach me: gj0189634@gmail.com
