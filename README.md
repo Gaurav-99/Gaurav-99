@@ -10,7 +10,7 @@ I'm Gaurav Joshi a Software Developer and Competetive programmer. I Spend most o
 
 - 🔭 I’m currently Studing at School Of Engineering & Technology Srinagar, HNB Garhwal University (2022 batch).
 
-- 🤔 I’m Currently looking for good intership opportunities.
+- 🤔 I’m Currently looking for intership opportunities.
 - 📫 How to reach me: gj0189634@gmail.com
 - 😄 Pronouns: Yoshitokin, nvrgp
 - ⚡ Fun fact: I play games and go to the GYM very often.
