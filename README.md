@@ -29,7 +29,7 @@ I'm Gaurav Joshi a Software Developer and Competetive programmer. I Spend most o
   More stuff about me
 </summary>
 
-<br >
+<br>
 
 #### Coding Stats
 
