@@ -8,9 +8,10 @@
 <img src="https://img.shields.io/badge/-gaurav-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge"/>
 </a>
 </div>
+ <img id="badges" src="https://visitor-badge.glitch.me/badge?page_id=Gaurav-99.Gaurav-99" alt=""/>
 </div>
 
-<img id="badges" src="https://komarev.com/ghpvc/?username=Gaurav-99&style=flat-square&color=blue" alt=""/>
+
 
 
 
