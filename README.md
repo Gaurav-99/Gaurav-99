@@ -24,10 +24,7 @@
   , I'm Gaurav
 </h1>
 </div>
-
-
-
-
+---
 
 I'm Gaurav Joshi a Software Developer and Competetive programmer. I Spend most of time coding outstanding projects or solving difficult coding problems.
 
@@ -35,11 +32,9 @@ I'm Gaurav Joshi a Software Developer and Competetive programmer. I Spend most o
 
  [![Linkedin Badge](https://img.shields.io/badge/-Gaurav-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-joshi-a41686150/) [![Mail Badge](https://img.shields.io/badge/-gaurav-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gj0189634@gmail.com)
 
-<!-- TODO: Add last video link -->
+<!-- TODO:  -->
 
 - 🔭 I’m currently Studing at School Of Engineering & Technology Srinagar, HNB Garhwal University (2022 batch).
-
-- 🤔 I’m Currently looking for intership opportunities.
 - 📫 How to reach me: gj0189634@gmail.com
 - 😄 Pronouns: Yoshitokin, nvrgp
 - ⚡ Fun fact: I play games and go to the GYM very often.
