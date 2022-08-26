@@ -8,9 +8,17 @@
 [![Mail Badge](https://img.shields.io/badge/-gaurav-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gj0189634@gmail.com)
 
  <a href="https://www.hackerrank.com/gj0189634">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" width ="30px" alt="HackerRank badge"/ >
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" width ="50px" alt="HackerRank badge"/ >
  </a>
- <a href=""> </a>
+ <a href="https://www.hackerearth.com/@gj0189634">
+  <img src="https://raw.githubusercontent.com/Gaurav-99/Gaurav-99/a64231ff66db52f99d5f13c9ab9e5499f799687c/img/hackerearth.svg" width ="50px" alt="HackerEarth badge"/ >
+ </a>
+  <a href="https://www.codechef.com/users/gaura_joshi_99">
+  <img src="https://raw.githubusercontent.com/Gaurav-99/Gaurav-99/a64231ff66db52f99d5f13c9ab9e5499f799687c/img/codechef.svg" width ="50px" alt="Codechef badge"/ >
+ </a>
+  <a href="https://leetcode.com/yoshitokin/">
+  <img src="https://github.com/Gaurav-99/Gaurav-99/blob/main/img/leetcode.png?raw=true" width ="50px" alt="Leetcode badge"/ >
+ </a>
 </div>
  <img id="badges" src="https://visitor-badge.glitch.me/badge?page_id=Gaurav-99.Gaurav-99" alt=""/>
  <h1>
