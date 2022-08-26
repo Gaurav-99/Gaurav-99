@@ -1,10 +1,5 @@
-
-<div id ="salutation" align="center">
-#Hi I'm Gaurav<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi" align="center-left">
-</div>
-
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/ width="100px">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/ width="150px">
 <div id="badges">
 <a href="https://www.linkedin.com/in/gaurav-joshi-a41686150/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,6 +9,8 @@
 </a>
 </div>
 </div>
+
+<img id="badges" src="https://komarev.com/ghpvc/?Gaurav-99&style=flat-square&color=blue" alt=""/>
 
 
 
@@ -41,9 +38,7 @@ I'm Gaurav Joshi a Software Developer and Competetive programmer. I Spend most o
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Gaurav-99.Gaurav-99)
 
-<div id="badges">
- <img src="https://komarev.com/ghpvc/?Gaurav-99&style=flat-square&color=blue" alt=""/>
-</div>
+
  
 <details>
 <summary>
