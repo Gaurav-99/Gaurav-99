@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/ width="100px">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
 <div id="badges">
 <a href="https://www.linkedin.com/in/gaurav-joshi-a41686150/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,7 +8,7 @@
 [![Mail Badge](https://img.shields.io/badge/-gaurav-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gj0189634@gmail.com)
 
  <a href="https://www.hackerrank.com/gj0189634">
-  <img src="https://github.com/Gaurav-99/Gaurav-99/blob/main/img/hackerrank.svg" alt="HackerRank badge"/ >
+  <img src="https://github.com/Gaurav-99/Gaurav-99/blob/main/img/hackerrank.svg" width ="10px" alt="HackerRank badge"/ >
  </a>
  <a href=""> </a>
 </div>
