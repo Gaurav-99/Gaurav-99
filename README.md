@@ -40,7 +40,10 @@ I'm Gaurav Joshi a Software Developer and Competetive programmer. I Spend most o
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Gaurav-99.Gaurav-99)
-
+<div id="badges">
+ <img src="https://komarev.com/ghpvc/?Gaurav-99&style=flat-square&color=blue" alt=""/>
+</div>
+ 
 <details>
 <summary>
   More stuff about me
