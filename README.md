@@ -4,7 +4,7 @@
 </div>
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/ width="100px">
 <div id="badges">
 <a href="https://www.linkedin.com/in/gaurav-joshi-a41686150/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -40,6 +40,7 @@ I'm Gaurav Joshi a Software Developer and Competetive programmer. I Spend most o
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Gaurav-99.Gaurav-99)
+
 <div id="badges">
  <img src="https://komarev.com/ghpvc/?Gaurav-99&style=flat-square&color=blue" alt=""/>
 </div>
