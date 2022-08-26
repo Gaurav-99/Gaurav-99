@@ -9,6 +9,10 @@
 </a>
 </div>
  <img id="badges" src="https://visitor-badge.glitch.me/badge?page_id=Gaurav-99.Gaurav-99" alt=""/>
+ <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
 
