@@ -2,10 +2,10 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
 <div id="badges">
 <a href="https://www.linkedin.com/in/gaurav-joshi-a41686150/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"  width="50px"alt="LinkedIn Badge"/>
 </a>
 
-[![Mail Badge](https://img.shields.io/badge/-gaurav-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gj0189634@gmail.com)
+[![Mail Badge](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg)](mailto:gj0189634@gmail.com)
 
  <a href="https://www.hackerrank.com/gj0189634">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" width ="50px" alt="HackerRank badge"/ >
