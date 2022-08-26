@@ -8,7 +8,7 @@
 [![Mail Badge](https://img.shields.io/badge/-gaurav-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gj0189634@gmail.com)
 
  <a href="https://www.hackerrank.com/gj0189634">
-  <img src="https://github.com/Gaurav-99/Gaurav-99/blob/main/img/hackerrank.svg" width ="30px" alt="HackerRank badge"/ >
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" width ="30px" alt="HackerRank badge"/ >
  </a>
  <a href=""> </a>
 </div>
