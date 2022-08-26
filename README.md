@@ -4,9 +4,6 @@
 <a href="https://www.linkedin.com/in/gaurav-joshi-a41686150/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"  width="50px"alt="LinkedIn Badge"/>
 </a>
-
-[![Mail Badge](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg)](mailto:gj0189634@gmail.com)
-
  <a href="https://www.hackerrank.com/gj0189634">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" width ="50px" alt="HackerRank badge"/ >
  </a>
