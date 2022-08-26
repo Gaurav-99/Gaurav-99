@@ -4,19 +4,15 @@
 </div>
 
 <div id="header" align="center">
-  
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
-  
-    <div id="badges">
-        <a href="https://www.linkedin.com/in/gaurav-joshi-a41686150/">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-        </a>
-      
-        <a href="your-email">
-            <img src="https://img.shields.io/badge/-gaurav-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge"/>
-        </a>
-    </div>
-  
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+<div id="badges">
+<a href="https://www.linkedin.com/in/gaurav-joshi-a41686150/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="your-email">
+<img src="https://img.shields.io/badge/-gaurav-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge"/>
+</a>
+</div>
 </div>
 
 
