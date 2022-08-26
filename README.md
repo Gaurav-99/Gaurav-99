@@ -1,19 +1,19 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
 <div id="badges">
-<a href="https://www.linkedin.com/in/gaurav-joshi-a41686150/">
+<a href="https://www.linkedin.com/in/gaurav-joshi-a41686150/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"  width="50px"alt="LinkedIn Badge"/>
 </a>
- <a href="https://www.hackerrank.com/gj0189634">
+ <a href="https://www.hackerrank.com/gj0189634" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" width ="50px" alt="HackerRank badge"/ >
  </a>
- <a href="https://www.hackerearth.com/@gj0189634">
+ <a href="https://www.hackerearth.com/@gj0189634" target="_blank">
   <img src="https://raw.githubusercontent.com/Gaurav-99/Gaurav-99/a64231ff66db52f99d5f13c9ab9e5499f799687c/img/hackerearth.svg" width ="50px" alt="HackerEarth badge"/ >
  </a>
-  <a href="https://www.codechef.com/users/gaura_joshi_99">
+  <a href="https://www.codechef.com/users/gaura_joshi_99" target="_blank">
   <img src="https://raw.githubusercontent.com/Gaurav-99/Gaurav-99/a64231ff66db52f99d5f13c9ab9e5499f799687c/img/codechef.svg" width ="50px" alt="Codechef badge"/ >
  </a>
-  <a href="https://leetcode.com/yoshitokin/">
+  <a href="https://leetcode.com/yoshitokin/" target="_blank">
   <img src="https://github.com/Gaurav-99/Gaurav-99/blob/main/img/leetcode.png?raw=true" width ="50px" alt="Leetcode badge"/ >
  </a>
 </div>
