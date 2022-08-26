@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-email">
-    <img src="https://img.shields.io/badge/-gaurav-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge"/>
+    <img src="https://img.shields.io/badge/-gaurav-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
 
