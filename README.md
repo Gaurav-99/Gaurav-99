@@ -25,7 +25,7 @@
 </h1>
 </div>
 
-<p align="centre">I'm Gaurav Joshi a Software Developer and Competetive programmer. I Spend most of time coding outstanding projects or solving difficult coding problems.</p>
+<p align="centre">I'm Gaurav Joshi a Unity Developer and Competetive programmer. I Spend most of time coding outstanding projects or solving difficult coding problems.</p>
 
 
 <!-- TODO: Add last video link -->
