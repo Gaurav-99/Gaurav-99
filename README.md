@@ -57,11 +57,11 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/640px-Antu_mongodb.svg.png" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
  <img src="https://raw.githubusercontent.com/Gaurav-99/Gaurav-99/main/img/postman.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/640px-Matlab_Logo.png" title="Maltlab" alt="Maltlab" width="40" height="40"/>&nbsp;
  <img src="https://raw.githubusercontent.com/Gaurav-99/Gaurav-99/main/img/docker-logo.webp" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
  <img src="https://raw.githubusercontent.com/Gaurav-99/Gaurav-99.github.io/main/assets/C-Sharp-Tutorials.png" title="C#" alt="C#" width="60" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/Gaurav-99/Gaurav-99.github.io/main/assets/Unity%20logo.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+
 </div>
 
 ---
