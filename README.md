@@ -13,7 +13,7 @@
   <a href="https://www.codechef.com/users/gaura_joshi_99" target="_blank">
   <img src="https://raw.githubusercontent.com/Gaurav-99/Gaurav-99/a64231ff66db52f99d5f13c9ab9e5499f799687c/img/codechef.svg" width ="50px" alt="Codechef badge"/ >
  </a> -->
-  <a href="https://leetcode.com/nvr_gp/ target="_blank">
+  <a href="https://leetcode.com/nvr_gp/" target="_blank">
   <img src="https://github.com/Gaurav-99/Gaurav-99/blob/main/img/leetcode.png?raw=true" width ="50px" alt="Leetcode badge"/ >
  </a>
 </div>
