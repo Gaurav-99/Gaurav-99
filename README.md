@@ -25,12 +25,12 @@
 </h1>
 </div>
 
-<p align="centre">I'm Gaurav Joshi a Unity Developer and Competetive programmer. I Spend most of time coding outstanding projects or solving difficult coding problems.</p>
+<p align="centre">I'm Gaurav Joshi a Software Engineer and Competetive programmer. I Spend most of time coding outstanding projects or solving difficult coding problems.</p>
 
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on Unity 3D & MERN stack development projects
+- 🔭 I’m currently working on Unity(C#) 3D & MERN stack development projects
 - 📫 How to reach me: gj0189634@gmail.com
 - 😄 Pronouns: Yoshitokin, nvrgp
 - ⚡ Fun fact: I play games and go to the GYM very often
