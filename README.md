@@ -62,6 +62,6 @@
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-99&&hide=css&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)&nbsp;![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=Gaurav-99&count_private=true&theme=radical&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-99&hide=css&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)&nbsp;![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=Gaurav-99&theme=radical&hide=contribs,prs)
 
 
