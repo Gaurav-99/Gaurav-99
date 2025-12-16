@@ -30,7 +30,7 @@
 
 
 
-- 🔭 I’m currently working on Unity(C#) 3D & MERN stack development projects
+- 🔭 I’m currently working on full stack development projects and Unity(C#) 3D games
 - 📫 How to reach me: gj0189634@gmail.com
 - 😄 Pronouns: Yoshitokin, nvrgp
 - ⚡ Fun fact: I play games and go to the GYM very often
