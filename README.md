@@ -31,7 +31,7 @@
 
 
 - 🔭 I’m currently working on Unity(C#) 3D & MERN stack development projects
-- 📫 How to reach me: gaurav_joshi@zohomail.in
+- 📫 How to reach me: gj0189634@gmail.com
 - 😄 Pronouns: Yoshitokin, nvrgp
 - ⚡ Fun fact: I play games and go to the GYM very often
 
